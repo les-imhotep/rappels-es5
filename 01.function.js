@@ -33,3 +33,4 @@ afficherOperation("Somme",somme,20,40);
 
 afficherOperation("Multiplication",multiplication,10,20)
 afficherOperation("Soustraction", function(nbr1,nbr2){return nbr1-nbr2;}, 15,5);
+
