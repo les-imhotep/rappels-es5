@@ -1,4 +1,4 @@
-PARTIE 1 : rappels JavaScript
+//PARTIE 1 : rappels JavaScript
 
 var lg = console.log
 var nombre1 = 10;
